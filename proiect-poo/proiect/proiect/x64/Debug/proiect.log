@@ -1,0 +1,5 @@
+﻿  matrix.cpp
+c:\users\constantin\desktop\proiect-poo\proiect\proiect\matrix.cpp(275): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  proiect.cpp
+c:\users\constantin\desktop\proiect-poo\proiect\proiect\proiect.cpp(119): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
